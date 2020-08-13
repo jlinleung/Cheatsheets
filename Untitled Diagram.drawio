@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2020-08-13T07:12:43.652Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="NlkVeq0IJ2BkYTqyXthN" version="13.6.2" type="github">
-  <diagram id="yoSirl12dt-ZBHxwy8dR" name="Page-1">
-    <mxGraphModel dx="2125" dy="2003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2020-08-13T07:33:17.564Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="V4l5LZeNn4pnWt3o1_o7" version="13.6.2" type="github" pages="2">
+  <diagram id="yoSirl12dt-ZBHxwy8dR" name="den_network">
+    <mxGraphModel dx="2125" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="35mXfMyns2ajvdDKBd5Q-264" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-54.2534189247167" y="-23" width="994" height="698.76" as="geometry" />
+        <mxCell id="35mXfMyns2ajvdDKBd5Q-281" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-56" y="31" width="994" height="698.76" as="geometry" />
+        </mxCell>
+        <mxCell id="35mXfMyns2ajvdDKBd5Q-280" value="" style="group" vertex="1" connectable="0" parent="35mXfMyns2ajvdDKBd5Q-281">
+          <mxGeometry width="994" height="698.76" as="geometry" />
+        </mxCell>
+        <mxCell id="35mXfMyns2ajvdDKBd5Q-264" value="" style="group" vertex="1" connectable="0" parent="35mXfMyns2ajvdDKBd5Q-280">
+          <mxGeometry width="994" height="698.76" as="geometry" />
         </mxCell>
         <mxCell id="35mXfMyns2ajvdDKBd5Q-51" value="" style="group;" vertex="1" connectable="0" parent="35mXfMyns2ajvdDKBd5Q-264">
           <mxGeometry x="152.6933611073764" y="400" width="158.36086843685976" height="270" as="geometry" />
@@ -905,6 +911,17 @@
         </mxCell>
         <mxCell id="35mXfMyns2ajvdDKBd5Q-279" value="&lt;font style=&quot;font-size: 15px&quot;&gt;continuous context&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="35mXfMyns2ajvdDKBd5Q-264">
           <mxGeometry x="822.9334189247168" y="678.76" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="GTT6yxQnA3PSXI84DBPK" name="EN network">
+    <mxGraphModel dx="1298" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="JItox27sIkR97Tj5AB0X-0" />
+        <mxCell id="JItox27sIkR97Tj5AB0X-1" parent="JItox27sIkR97Tj5AB0X-0" />
+        <mxCell id="kPTEJMUj8mwAvpG_eaDF-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;" vertex="1" parent="JItox27sIkR97Tj5AB0X-1">
+          <mxGeometry x="190" y="520" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
