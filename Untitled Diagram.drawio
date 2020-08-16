@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-16T08:29:23.380Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="DBM-ZsKLGxGnqKRaprRq" version="13.6.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2020-08-16T08:33:45.079Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="CxWTbdzxnTYAhqsTfu0c" version="13.6.2" type="github" pages="11">
   <diagram id="otJnPwfDfzTNEHvc50XT" name="multi-views ta attention">
     <mxGraphModel dx="1298" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -563,7 +563,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nWmqkoVFnb90pu-URiYD" name="target awared attention">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="UixRsGGDc--n94Y4DloY-0" />
         <mxCell id="UixRsGGDc--n94Y4DloY-1" parent="UixRsGGDc--n94Y4DloY-0" />
@@ -822,7 +822,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2cYvIzTmXMwJIX-IKG_8" name="View Gate">
-    <mxGraphModel dx="1298" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="HsJJV5D0wyNRTkA8Z3KA-0" />
         <mxCell id="HsJJV5D0wyNRTkA8Z3KA-1" parent="HsJJV5D0wyNRTkA8Z3KA-0" />
@@ -1015,7 +1015,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="j3e2v-eq_ap44AjQTuWx" name="multi-view attention">
-    <mxGraphModel dx="1298" dy="5510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="5461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Uz24piLcxbgBbFVqLaK3-0" />
         <mxCell id="Uz24piLcxbgBbFVqLaK3-1" parent="Uz24piLcxbgBbFVqLaK3-0" />
@@ -1187,6 +1187,9 @@
         </mxCell>
         <mxCell id="Uz24piLcxbgBbFVqLaK3-48" value="W&lt;sub&gt;i&lt;/sub&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="Uz24piLcxbgBbFVqLaK3-1">
           <mxGeometry x="350" y="-4310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ujrQzR8SOGyF6sf3h1qP-0" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Multi-Views TA Attention&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="Uz24piLcxbgBbFVqLaK3-1">
+          <mxGeometry x="200" y="-3980" width="266" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
